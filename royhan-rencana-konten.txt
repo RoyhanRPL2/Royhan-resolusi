@@ -3,6 +3,7 @@ RENCANA KONTEN OYI
 - Javascript
   * Frame Work Javascript
     ^ Vue
+    ^ React
 - PHP Framework
   ^ Laravel 
 - Bootstrap
